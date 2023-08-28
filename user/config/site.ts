@@ -12,35 +12,35 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
-  subtitle: '🚀 QWER - Built using Svelte with ❤',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
+  url: 'https://test-moticat-net.vercel.app',
+  title: 'MotiCAT',
+  subtitle: 'MotiCATがこねこねするところ',
+  description: 'MotiCATがこねこねするところ',
   lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
   cover: SiteCover,
   author: {
-    name: 'John Doe',
+    name: 'MotiCAT',
     status: '🚀',
     statusTip:
-      '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
+      '<a href="https://github.com/MotiCAT" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >いろいろ</a>さわる',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
     avatar_96_png: Avatar_96_PNG,
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
-    website: 'https://github.com/kwchang0831/svelte-QWER',
-    github: 'https://github.com/kwchang0831',
-    email: 'contact@kwchang0831.dev',
-    bio: `Peace begins <br/> With a smile`,
+    website: 'https://profile.moticat.net/',
+    github: 'https://github.com/MotiCAT',
+    email: 'contact@moticat.net',
+    bio: `MotiCATのところ <br/> いろいろこねこねする`,
   },
 };
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/MotiCAT'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -52,7 +52,7 @@ export const headConfig: Site.Head = {
           // Replace the following with your own setting
 
           // Plausible
-          '<link rel="preconnect" href="https://plausible.kwchang0831.dev" />',
+          '<link rel="preconnect" href="https://moticat.net/" />',
           '<script defer type="text/partytown" data-domain="svelte-qwer.vercel.app" src="https://plausible.kwchang0831.dev/js/plausible.js"></script>',
           // Google tag (gtag.js)
           `<script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-LQ73GWF6XT"></script>`,
