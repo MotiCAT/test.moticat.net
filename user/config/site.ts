@@ -34,7 +34,7 @@ export const siteConfig: Site.Config = {
     website: 'https://profile.moticat.net/',
     github: 'https://github.com/MotiCAT',
     email: 'contact@moticat.net',
-    bio: `MotiCATのところ <br/> いろいろこねこねする`,
+    bio: `MotiCATのサイト <br/> いろいろこねこねする`,
   },
 };
 
