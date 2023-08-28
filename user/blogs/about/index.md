@@ -1,6 +1,6 @@
 ---
 title: About MotiCAT
-description: このサイトでやること
+description: MotiCATのサイト
 published: '2022-08-28T00:00:00.000+08:00'
 updated: '2022-08-28T00:00:00.000+08:00'
 options:
