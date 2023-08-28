@@ -13,15 +13,15 @@ import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
   url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
-  subtitle: '🚀 QWER - Built using Svelte with ❤',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
-  lang: 'en',
+  title: 'MotiCAT',
+  subtitle: 'MotiCATがこねこねするところ',
+  description: 'MotiCATがこねこねするところ',
+  lang: 'ja',
   timeZone: 'Asia/Taipei',
   since: 2022,
   cover: SiteCover,
   author: {
-    name: 'John Doe',
+    name: 'MotiCAT',
     status: '🚀',
     statusTip:
       '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
@@ -31,10 +31,10 @@ export const siteConfig: Site.Config = {
     avatar_96_png: Avatar_96_PNG,
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
-    website: 'https://github.com/kwchang0831/svelte-QWER',
-    github: 'https://github.com/kwchang0831',
-    email: 'contact@kwchang0831.dev',
-    bio: `Peace begins <br/> With a smile`,
+    website: 'https://moticat.net/',
+    github: 'https://github.com/MotiCAT',
+    email: 'contact@moticat.net',
+    bio: `MotiCATのテストサイト <br/> こねこねしてる`,
   },
 };
 
