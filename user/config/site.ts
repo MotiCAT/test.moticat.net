@@ -22,9 +22,9 @@ export const siteConfig: Site.Config = {
   cover: SiteCover,
   author: {
     name: 'MotiCAT',
-    status: '🚀',
+    status: '�',
     statusTip:
-      '<a href="https://github.com/MotiCAT" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >いろいろ</a>さわる',
+      '<a href="https://twitter.com/m0ticat" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >Twitter</a>フォローしてね',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
