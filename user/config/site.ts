@@ -131,13 +131,8 @@ export const mobilenavConfig: DD.Nav = {
       url: '/about',
     },
     {
-      name: 'See Docs 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
-    },
-    {
-      name: 'Get QWER 🚀',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
+      name: 'ブログ 📄',
+      url: 'https://moticat.net/',
       rel: 'external',
     },
   ],
