@@ -13,7 +13,7 @@ import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
   url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
+  title: 'MotiCAT',
   subtitle: '🚀 QWER - Built using Svelte with ❤',
   description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
   lang: 'en',
@@ -21,7 +21,7 @@ export const siteConfig: Site.Config = {
   since: 2022,
   cover: SiteCover,
   author: {
-    name: 'John Doe',
+    name: 'MotiCAT',
     status: '🚀',
     statusTip:
       '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
@@ -34,13 +34,13 @@ export const siteConfig: Site.Config = {
     website: 'https://github.com/kwchang0831/svelte-QWER',
     github: 'https://github.com/kwchang0831',
     email: 'contact@kwchang0831.dev',
-    bio: `Peace begins <br/> With a smile`,
+    bio: `いろんなとこにいます。 <br/> Svelte触り始めた`,
   },
 };
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/MotiCAT'],
   custom: ({ dev }) =>
     dev
       ? [
