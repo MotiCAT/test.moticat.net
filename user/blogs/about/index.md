@@ -9,7 +9,7 @@ options:
 
 ## 🎉 やること
 
-VercelとSvelteKitを[MotiCAT](https://twitter.com/m0ticat)がこねこねします。手探りでやっていくのでいろいろとガバガバ。
+CF PagesでSvelteKitを[MotiCAT](https://twitter.com/m0ticat)がこねこねします。手探りでやっていくのでいろいろとガバガバ。
 
 ## ✨ このサイトで使用しているもの
 
