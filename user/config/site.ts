@@ -12,13 +12,13 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://test-moticat-net.vercel.app',
-  title: 'MotiCAT',
+  url: 'https://test.moticat.net',
+  title: 'MotiCATのサイト',
   subtitle: 'MotiCATがこねこねするところ',
   description: 'MotiCATがこねこねするところ',
   lang: 'ja',
-  timeZone: 'Asia/Taipei',
-  since: 2022,
+  timeZone: 'Asia/Tokyo',
+  since: 2023,
   cover: SiteCover,
   author: {
     name: 'MotiCAT',
@@ -67,7 +67,7 @@ export const headConfig: Site.Head = {
 
 export const dateConfig: Site.DateConfig = {
   toPublishedString: {
-    locales: 'en-US',
+    locales: 'ja-JP',
     options: {
       year: 'numeric',
       weekday: 'short',
@@ -77,7 +77,7 @@ export const dateConfig: Site.DateConfig = {
     },
   },
   toUpdatedString: {
-    locales: 'en-US',
+    locales: 'ja-JP',
     options: {
       year: 'numeric',
       weekday: 'short',
@@ -102,7 +102,7 @@ export const giscusConfig: Giscus.Config = {
   emitMetadata: '0',
   inputPosition: 'top',
   loading: 'lazy',
-  lang: 'en',
+  lang: 'ja',
   'data-strict': '0',
 };
 
