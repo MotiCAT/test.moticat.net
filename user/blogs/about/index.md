@@ -15,7 +15,7 @@ CF PagesでSvelteKitを[MotiCAT](https://twitter.com/m0ticat)がこねこねし�
 
 - ⚡ [svelte-QWER](https://github.com/kwchang0831/svelte-QWER)
 
-- 🤗 [Vercel](https://vercel.com/)
+- 🤗 [CloudFlare Pages](https://pages.cloudflare.com/)
 
 ## 📚 MotiCATがやっているもの
 
