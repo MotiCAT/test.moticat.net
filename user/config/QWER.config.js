@@ -2,7 +2,7 @@ export const UserConfig = {
   DefaultDesktopShowTagFilter: false,
   DefaultCoverStyle: 'IN',
   DefaultTagName: 'tags',
-  DefaultPostLanguage: 'English',
+  DefaultPostLanguage: 'Japanese',
   PostLanguageTagName: 'Language',
   SeriesTagName: 'Series',
   YearTagName: 'Year',
