@@ -112,8 +112,8 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     url: '/about',
   },
   {
-    name: 'プライバシーポリシー',
-    url: '/privacy－policy',
+    name: 'ポリシー',
+    url: '/privacy-policy',
   },
   {
     name: 'ブログ 📄',
@@ -130,8 +130,8 @@ export const mobilenavConfig: DD.Nav = {
       url: '/about',
     },
     {
-    name: 'プライバシーポリシー',
-    url: '/privacy－policy',
+      name: 'ポリシー',
+      url: '/privacy-policy',
     },
     {
       name: 'ブログ 📄',
