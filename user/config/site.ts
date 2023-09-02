@@ -112,6 +112,10 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     url: '/about',
   },
   {
+    name: 'プライバシーポリシー',
+    url: '/privacy－policy',
+  },
+  {
     name: 'ブログ 📄',
     url: 'https://moticat.net/',
     rel: 'external',
@@ -124,6 +128,10 @@ export const mobilenavConfig: DD.Nav = {
     {
       name: 'About',
       url: '/about',
+    },
+    {
+    name: 'プライバシーポリシー',
+    url: '/privacy－policy',
     },
     {
       name: 'ブログ 📄',
